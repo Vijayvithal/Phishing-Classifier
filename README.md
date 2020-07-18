@@ -31,8 +31,11 @@ Model Evaluation:
  A confusion matrix is a summary of prediction results on a classification problem. The number of correct and incorrect predictions are summarized with count values and broken down by each class
 
 True Positive (TP) : Observation is positive, and is 4544 predicted to be positive.
+
 False Negative (FN) : Observation is positive, but is 354 predicted negative.
+
 True Negative (TN) : Observation is negative, and is 196 predicted to be negative.
+
 False Positive (FP) : Observation is negative, but is 5691 predicted positive.
 
 
