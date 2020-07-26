@@ -7,7 +7,7 @@
 To build a classification methodology to predict whether a website is a phising website on the basis of given set of predictors.
 
 
-Piplines Used For Solving Problem
+ # Piplines Used For Solving Problem
 1.Visualization
 2.Data Preprocessing
 3.Model Building
@@ -16,7 +16,7 @@ Piplines Used For Solving Problem
 6.Model Evaluation
 
 
-Model Building:
+# Model Building:
 Trained and tested model with different Algaritham....
  	
 Score 	Model
@@ -26,7 +26,7 @@ Score 	Model
 60.48 	Logistic Regression
 
 
-Model Evaluation:
+# Model Evaluation:
 
  A confusion matrix is a summary of prediction results on a classification problem. The number of correct and incorrect predictions are summarized with count values and broken down by each class
 
